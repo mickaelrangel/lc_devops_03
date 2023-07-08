@@ -7,7 +7,6 @@ on:
     branches: [ Aula_5 ]
 
 jobs:
-
   test:
     runs-on: ubuntu-latest
     strategy:
